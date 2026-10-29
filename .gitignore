@@ -1,0 +1,15 @@
+work/
+keys/
+dist/
+analysis/
+__pycache__/
+*.class
+*.apk
+*.apks
+*.aab
+*.dex
+*.p12
+*.jks
+*.keystore
+*.pem
+*.key
